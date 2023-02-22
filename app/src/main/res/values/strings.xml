@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">DiceRoller_2</string>
     <string name="roll">Roll</string>
+    <string name="costservice" >Cost of Service</string>
+    <string name="howcost">How was the service?</string>
+    <string name="amazing">Amazing(20%)</string>
+    <string name="good">Good(18%)</string>
+    <string name="okay">Okay(15%)</string>
+    <string name="tips">Round up tips?</string>
+    <string name="calcu">CACULATE</string>
+    <string name="tipa">Tip Amout</string>
+
 </resources>
