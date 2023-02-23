@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonPI" type="id" />
+    <item name="buttonac" type="id" />
+    <item name="textfield" type="id" />
+    <item name="button0" type="id" />
+    <item name="buttondel" type="id" />
+    <item name="buttondot" type="id" />
+    <item name="buttonans" type="id" />
+    <item name="buttondiv" type="id" />
+    <item name="button3" type="id" />
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="buttonadd" type="id" />
+    <item name="button6" type="id" />
+    <item name="button4" type="id" />
+    <item name="button5" type="id" />
+    <item name="buttonminus" type="id" />
+    <item name="button9" type="id" />
+    <item name="button7" type="id" />
+    <item name="button8" type="id" />
+    <item name="buttonmul" type="id" />
+    <item name="buttonsqrt" type="id" />
+</resources>
